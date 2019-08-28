@@ -3,3 +3,6 @@
 ## 比赛相关
 1. 数据集地址：https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.12281978.0.0.7592412fT1bDZu&dataId=22288
 2. 比赛地址：https://tianchi.aliyun.com/competition/entrance/231687/information
+
+## 参考
+1. datautils.py和evaluator.py 参考GitHub：https://github.com/beader/ruijin_round1/blob/master/data_utils/data_utils.py
